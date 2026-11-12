@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+Pillow
+scikit-image>=0.21
+scikit-learn
+streamlit
