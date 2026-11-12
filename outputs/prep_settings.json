@@ -1,0 +1,7 @@
+{
+  "sp_threshold": 0.01,
+  "noise_threshold": 0.03,
+  "size": 64,
+  "train_mean": 0.42926077903861765,
+  "train_std": 0.24602903299763743
+}
